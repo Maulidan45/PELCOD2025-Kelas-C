@@ -1,0 +1,17 @@
+10 + 5 * 2 - 12 / 6 % 3
+1. Operasi *, /, % dari kiri ke kanan:
+5 * 2 = 10
+
+12 / 6 = 2
+
+2 % 3 = 2 (karena 2 mod 3 = 2)
+
+Sekarang ekspresi jadi:
+
+10 + 10 - 2
+2. Operasi + dan - dari kiri ke kanan:
+10 + 10 = 20
+
+20 - 2 = 18
+Jawaban Akhir:
+hasil = 18
